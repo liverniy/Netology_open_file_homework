@@ -287,4 +287,4 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-!/lection_code/
+/lection_code/
