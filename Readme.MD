@@ -1,3 +1,10 @@
+## Домашнее задание выполнено в 2-х файлах:
+
+* [Домашняя работа по заданиям 1 и 2](https://github.com/liverniy/Netology_open_file_homework/blob/main/dz_1_2.py)
+
+* [Домашняя работа по заданию 3](https://github.com/liverniy/Netology_open_file_homework/blob/main/dz_3.py)
+
+
 # Домашнее задание к лекции «Открытие и чтение файла, запись в файл»
 
 Необходимо написать программу для кулинарной книги.
